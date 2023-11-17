@@ -33,7 +33,7 @@
         <td>
             <img src="https://avatars.githubusercontent.com/u/114233139?v=4?size=150">
             <br>
-            <a href="https://github.com/catmaker/prpr"><I>신지수</I></a>
+            <a href="https://github.com/catmaker"><I>신지수</I></a>
         </td>
         <td>
             <img src="https://avatars.githubusercontent.com/u/143368163?v=4?size=150">
